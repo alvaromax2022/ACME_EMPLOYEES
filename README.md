@@ -40,8 +40,14 @@ OUTPUT: RENE-ASTRID: 3
 +++++TO RUN THE PROGRAM++++++
 
 
-This is a console program 
-Download the program files, save your files with the data in the same program's folder. 
+This is a console program.
+
+
+We must open our command console and locate the path where our main file is, we will execute it, 
+then the program will ask us to put the name of our .txt file
+
+The file with the .txt extension must be in the same folder as the program for it to work
+
 
 Example:
 - python ACME_EMPLOYEES.py (NAME OF THE FILE.txt)
